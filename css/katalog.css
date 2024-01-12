@@ -1,0 +1,261 @@
+.block-proteiny-images, .block-aminokisloty-images, .block-uglevody-images, .block-energetiki-images, .block-drugoe-images, .block-proteiny-Lactomin80, .block-proteiny-PROMILK_Kappa, .block-proteiny-yaihnyi{
+-moz-border-radius: 10px; /* закругление для старых Mozilla Firefox */
+ -webkit-border-radius: 10px; /* закругление для старых Chrome и Safari */
+ -khtml-border-radius:10px; /* закругл. для браузера Konquerer системы Linux */
+ border-radius: 10px; /* закругление углов для всех, кто понимает */
+}
+.block-proteiny-Lactomin80, .block-proteiny-PROMILK_Kappa, .block-proteiny-yaihnyi{
+-moz-border-radius: 15px; /* закругление для старых Mozilla Firefox */
+ -webkit-border-radius: 15px; /* закругление для старых Chrome и Safari */
+ -khtml-border-radius:15px; /* закругл. для браузера Konquerer системы Linux */
+ border-radius: 15px; /* закругление углов для всех, кто понимает */
+}
+
+
+div#block-catalog {
+	float:left;
+	background: #eee;
+	margin: 0px 10px 0px 0px;
+	width: 670px;
+	background-image: url(../img/foncontent.jpg);
+}
+
+div#left-block-catalog_1{
+	width: 670px;
+	height: 223px;
+	margin: 20px auto;
+}
+
+div#left-block-catalog_2{
+	width: 670px;
+	height: 223px;
+}
+div#left-block-catalog_3{
+	width: 670px;
+	height: 223px;
+	margin: 20px auto;
+}
+div#block-proteiny{
+	float:left;
+	width: 300px;
+	padding: 0px 30px 0px 20px;
+}
+
+div#block-aminokisloty{
+	float:left;
+	width: 300px;
+	padding: 0px;
+}
+
+div#block-uglevody{
+	float:left;
+	width: 300px;
+	padding: 0px 30px 0px 20px;
+}
+
+div#block-energetiki{
+	float:left;
+	width: 300px;
+	padding: 0px;
+}
+div#block-drugoe{
+	float:left;
+	width: 300px;
+	padding: 0px 30px 0px 20px;
+}
+.block-proteiny-images {
+    width:300px;
+	height:223px;
+	background:url(../img/4.png) no-repeat bottom center;
+	float:left;
+}
+	
+ .block-proteiny-images:hover {
+   background:url(../img/4.png) no-repeat top center; float:left;
+}
+
+.block-aminokisloty-images {
+    width:300px;
+	height:223px;
+	background:url(../img/5.png) no-repeat bottom center;
+	float:left;
+}
+.block-aminokisloty-images:hover {
+   background:url(../img/5.png) no-repeat top center; float:left;
+    }
+	
+.block-uglevody-images {
+    width:300px;
+	height:223px;
+	background:url(../img/6.png) no-repeat bottom center;
+	float:left;
+   }
+.block-uglevody-images:hover {
+   background:url(../img/6.png) no-repeat top center; float:left;
+    }
+.block-energetiki-images {
+    width:300px;
+	height:223px;
+	background:url(../img/7.png) no-repeat bottom center;
+	float:left;
+   }
+.block-energetiki-images:hover {
+   background:url(../img/7.png) no-repeat top center; float:left;
+    }
+.block-drugoe-images {
+    width:300px;
+	height:223px;
+	background:url(../img/18.png) no-repeat bottom center;
+	float:left;
+   }
+.block-drugoe-images:hover {
+   background:url(../img/18.png) no-repeat top center; float:left;
+    }
+/* протеины */
+#block-proteiny1{
+	padding: 10px;
+	width:670px;
+}
+#block-proteiny1 a{
+	color: #00589b;
+	text-decoration:none;
+	}
+#block-proteiny1 a:hover{
+	color:#2fa6ff;
+	}
+.block-proteiny-Lactomin80 {
+    width:150px;
+	height:220px;
+	background:url(../img/14.png) no-repeat top center;
+}	
+.block-proteiny-Lactomin80:hover {
+	width:150px;
+	height:220px;
+   background:url(../img/14.png) no-repeat bottom center; float:left;
+    }
+.block-proteiny-PROMILK_Kappa {
+    width:150px;
+	height:220px;
+	background:url(../img/15.png) no-repeat top center;
+}	
+
+.block-proteiny-PROMILK_Kappa:hover {
+   background:url(../img/15.png) no-repeat bottom center; float:left;
+    }
+	
+.block-proteiny-Textrion_Progel_800 {
+    width:150px;
+	height:220px;
+	background:url(../img/24.png) no-repeat top center;
+}	
+
+.block-proteiny-Textrion_Progel_800:hover {
+   background:url(../img/24.png) no-repeat bottom center; float:left;
+    }
+.block-proteiny-yaihnyi {
+    width:150px;
+	height:220px;
+	background:url(../img/16.png) no-repeat top center;
+}	
+.block-proteiny-yaihnyi:hover {
+   background:url(../img/16.png) no-repeat bottom center; float:left;
+    }
+	.block-proteiny-mgc {
+    width:150px;
+	height:220px;
+	background:url(../img/25.png) no-repeat top center;
+}	
+.block-proteiny-mgc:hover {
+   background:url(../img/25.png) no-repeat bottom center; float:left;
+    }
+		.block-bcaa211 {
+    width:150px;
+	height:220px;
+	background:url(../img/26.png) no-repeat top center;
+}	
+.block-bcaa211:hover {
+   background:url(../img/26.png) no-repeat bottom center; float:left;
+    }
+	
+.block-bcaa211 {
+    width:150px;
+	height:220px;
+	background:url(../img/26.png) no-repeat top center;
+}	
+.block-bcaa211:hover {
+   background:url(../img/26.png) no-repeat bottom center; float:left;
+    }
+
+.block-creatin {
+    width:150px;
+	height:220px;
+	background:url(../img/27.png) no-repeat top center;
+}	
+.block-creatin:hover {
+   background:url(../img/27.png) no-repeat bottom center; float:left;
+    }
+	.block-Cargill {
+    width:150px;
+	height:220px;
+	background:url(../img/28.png) no-repeat top center;
+}	
+.block-Cargill:hover {
+	width:150px;
+	height:220px;
+   background:url(../img/28.png) no-repeat bottom center; float:left;
+    }
+		
+#table-proteiny_1{
+    width:650px;
+	height:220px;
+	border-top-style:solid;
+	border-top-color:#00589b;
+	border-top-width:3px;
+	border-bottom-style:solid;
+	border-bottom-color:#00589b;
+	border-bottom-width:3px;
+	padding: 10px 0;
+    }
+#table-proteiny_1_left{
+	float:left;
+	width:150px;
+	height:220px;
+	padding-right: 20px;
+    }
+#table-proteiny_2{
+    width:650px;
+	height:220px;
+	border-bottom-style:solid;
+	border-bottom-color:#00589b;
+	border-bottom-width:3px;
+	padding: 10px 0;
+    }
+#table_sod a{
+	color: #00589b;
+	text-decoration:none;
+	}
+#table_sod a:hover{
+	color:#2fa6ff; 
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

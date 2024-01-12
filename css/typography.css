@@ -1,0 +1,139 @@
+h1 {
+color: #ffffff;
+font-family: "Arial", Helvetica, sans-serif;
+font-size: 14px;
+font-weight: Regular;
+}
+h2 {
+color: #00589b;
+font-family: "Arial", Helvetica, sans-serif;
+font-size: 18px;
+font-weight: Regular;
+}
+h3 {
+color: #00589b;
+font-family: "Arial", Helvetica, sans-serif;
+font-size: 18px;
+font-weight: Bold;
+}
+h4 {
+color: #000000;
+font-family: "Arial", Helvetica, sans-serif;
+font-size: 15px;
+font-weight: bold;
+text-align: inherit;
+line-height: 1.5;
+list-style: none;
+}
+h5 {
+	color: #000000;
+	font-family: "Arial", Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 1.5;
+	text-align: justify;
+}
+h6 {
+color: #00589b;
+font-family: "Arial", Helvetica, sans-serif;
+font-size: 14px;
+font-weight: normal;
+line-height: 2;
+}
+h7 {
+color: #00589b;
+font-family: "Arial", Helvetica, sans-serif;
+font-size: 18px;
+font-weight: normal;
+line-height: 1.5;
+text-align:center;
+}
+h8 {
+color: #000000;
+font-family: "Arial", Helvetica, sans-serif;
+font-size: 14px;
+font-weight: normal;
+line-height: 1.5;
+text-align:justify;
+}
+h9 {
+color: #000000;
+font-family: "Arial", Helvetica, sans-serif;
+font-size: 14px;
+font-weight:bold;
+line-height: 1.5;
+font-style:italic;
+}
+h10 {
+color: #000000;
+font-family: "Arial", Helvetica, sans-serif;
+font-size: 14px;
+font-weight: normal;
+line-height: 2;
+text-align:center;
+}
+h11 {
+color: #000000;
+font-family: "Arial", Helvetica, sans-serif;
+font-size: 14px;
+font-weight: normal;
+line-height: 1.5;
+text-align:justify;
+}
+h12 {
+color: #000000;
+font-family: "Arial", Helvetica, sans-serif;
+font-size: 14px;
+font-weight: normal;
+line-height: 2;
+text-align:center;
+}
+h13{
+color: #950000;
+font-family: "Arial", Helvetica, sans-serif;
+font-size: 14px;
+font-weight: normal;
+line-height: 1.5;
+text-align: left;
+}
+h14{
+color: #000000;
+font-family: "Arial", Helvetica, sans-serif;
+font-size: 15px;
+font-weight: normal;
+line-height: 2;
+text-align: left;
+}
+h15{
+color: #000000;
+font-family: "Arial", Helvetica, sans-serif;
+font-size: 14px;
+font-weight: bold;
+line-height: 2;
+text-align: left;
+}
+h16{
+	color: #000000;
+	font-family: "Arial", Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 1.5;
+	text-align:justify;
+	}
+h17{
+	color: #000000;
+	font-family: "Arial", Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 1.5;
+	text-align:justify;
+	text-decoration:underline;
+}
+h18{
+color: #000000;
+font-family: "Arial", Helvetica, sans-serif;
+font-size: 14px;
+font-weight: normal;
+line-height: 1.5;
+text-align:center;
+}

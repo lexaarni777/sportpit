@@ -1,0 +1,34 @@
+
+#block-dostavka{
+	margin: 0px 10px;
+	}
+#block-dostavka a{
+	color: #00589b;
+	text-decoration:none;
+	}
+#block-dostavka a:hover{
+	color:#2fa6ff;
+	}
+div#center-block1 {
+	float:left;
+	width: 525px;
+	background-color: #eee;
+	margin: 0px 10px 0px 0px;
+	height: 151px;
+}
+
+/* Доставка по всей РФ */
+#dostavka_rf {
+	list-style-image:url(../img/8.png);
+	margin: 0px 0px 0px 20px;
+}
+#dostavka_rf a{
+	color: #00569b;
+	text-decoration:none;
+	}
+#dostavka_rf a:hover{
+	color:#2fa6ff;
+	}
+	
+/* Контакты */
+

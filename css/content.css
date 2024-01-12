@@ -1,0 +1,126 @@
+#block-catalog, #right-block, #left-block, #center-block, #block-otzyvy, #center-block1{
+	background-image: url(../img/foncontent.jpg);
+}
+
+div#content {
+	padding-top: 5px;
+	margin: 0px auto;
+	width: 900px;
+}
+div#left-block {
+	float:left;
+	background-color: #eee;
+	margin: 0px 10px 0px 0px;
+	width: 135px;
+}
+
+div#left-block-content {
+	margin: 0px 10px 0px 10px;
+}
+#tabs-left a{
+	color: #00589b;
+	text-decoration:none;
+	}
+#tabs-left a:hover{
+	color:#2fa6ff; 
+	}
+	
+div#center-block {
+	float:left;
+	width: 525px;
+	background-color: #eee;
+	margin: 0px 10px 0px 0px;
+}
+
+div#center-block-content{
+	margin: 10px 10px 10px 10px;
+}
+
+div#right-block {
+	float:left;
+	width: 220px;
+	background-color: #eee;
+}
+
+div#right-block-content{
+	margin: 10px 10px 10px 10px;
+}
+div#autorizaziy{
+	margin: 21px 10px 0px 10px;
+}
+
+div#video-image{
+	padding: 10px auto;
+	}
+div#video-youtube{
+	padding: 30px;
+	}
+div#video-youtube-con{
+	padding: 0px;
+	height: 360px;
+	}
+div#Yandex_Metrika{
+	margin: 10px 291px;
+	}
+div#Yandex_Metrika_yz{
+	margin: 10px 200px;
+	}
+	
+div#block-otzyvy {
+	float:left;
+	background-color: #eee;
+	margin: 0px 10px 0px 0px;
+	width: 670px;
+}
+
+div#left-block-otzyvy {
+	margin: 0px 10px 0px 10px;
+}
+
+
+/* Lactomin80 */
+
+.example-image-link {
+    border: 4px solid #00589b;
+    border-radius: 4px;
+    display: inline-block;
+    line-height: 0;
+    margin: 20px 2px 20px;
+    transition: all 0.1s ease-out 0s;
+}
+
+.example-image-link:hover {
+  border: 4px solid #2fa6ff;
+}
+
+#image {
+	padding: 0px 5px 0px 5px;
+	}
+#prise1 {
+	padding: 0px 79px 20px 79px;
+	}
+#opisanie {
+	border-top-style:solid;
+	border-top-color:#00589b;
+	border-top-width:3px;
+	padding: 10px;
+	width: 650px;
+	}
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
